@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me buenomonteiro919@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: I'm a climber. I'm used to frustration but I'm persistent and stubborn.
+- ⚡ Fun fact: I'm a rockclimber. I'm used to frustration but I'm persistent and stubborn.
 
 <!---
 buenomonteiro/buenomonteiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
